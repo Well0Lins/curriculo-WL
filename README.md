@@ -1,2 +1,10 @@
 # curriculo-WL
-meu currículo &lt;3 
+  #### Linguagem de programação:
+  - JavaScript.
+  #### Linguagem de marcação:
+  - HTML
+  #### Linguagem de estilos:
+  - CSS
+ #### Framework:
+  - Bootstrap
+
