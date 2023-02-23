@@ -1,4 +1,4 @@
-# curriculo-WL
+# Meu currículo Web.
   #### Linguagem de programação:
   - JavaScript.
   #### Linguagem de marcação:
